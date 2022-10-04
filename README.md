@@ -1,2 +1,0 @@
-# segun-image
-Image
